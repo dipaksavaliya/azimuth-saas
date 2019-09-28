@@ -3,7 +3,7 @@
   "palette": "orange",
   "header": {
     "title": "Rejoice Invoices",
-    "logo_img": "/images/logo_alt.png",
+    "logo_img": "/images/1mb-rejoice.jpg",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "Your one stop solution for Invoices",
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/1mb-rejoice.jpg",
     "has_social": true,
     "content": "&copy; rejoicehub. All rights reserved.",
     "links": [
